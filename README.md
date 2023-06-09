@@ -1,5 +1,5 @@
 # Data-Mining
-Hastane içi mortalite referanslı ölüm teşhisi tahminleyen modellerin karşılaştırılması
+Hastane içi mortalite referanslı ölüm teşhisi tahminleyen modellerin karşılaştırılması \n
 Comparison of models predicting in-hospital mortality-referenced death diagnoses
 
 # Dataset
