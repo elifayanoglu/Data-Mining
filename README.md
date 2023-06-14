@@ -13,4 +13,4 @@ In the preprocessing phase, after the steps of converting all values in the data
 In the models phase, the preprocessed data set was trained with SVM, Logistic Regression and SGD Classifier models, respectively, and confusion matrices were extracted, thus making it easier to compare the estimation successes of these models.
 
 # Article
-Detailed analysis and explanations of this study are available in the pdf article Patient_Survival_Makale.
+Detailed analysis and explanations of this study are available in the pdf article [Patient_Survival_Makale](https://github.com/elifayanoglu/Data-Mining/blob/main/Patient_Survival_Makale.pdf).
